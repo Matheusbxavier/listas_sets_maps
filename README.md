@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Este portfólio de estudos foi desenvolvido para demonstrar minha jornada de aprendizado na linguagem de programação Dart. Os projetos aqui contêm exemplos práticos de como utilizo as estruturas de dados fundamentais (como Listas, Mapas e Sets), funções, controle de fluxo e manipulação de classes. Meu objetivo é aplicar conceitos-chave da linguagem para construir soluções simples, mas eficazes.
